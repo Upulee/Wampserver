@@ -1,0 +1,13 @@
+div{
+	padding:50px;
+	margin:0;
+	
+}
+.img-responsive{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+table{
+	border:10;
+}
